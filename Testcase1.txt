@@ -1,1 +1,2 @@
 learning how to us git
+ and to modify a file
